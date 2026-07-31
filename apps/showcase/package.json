@@ -59,7 +59,7 @@
         "autoprefixer": "^10",
         "jsdom": "^19.0.0",
         "nuxt": "catalog:app",
-        "postcss": "^8.4.31",
+        "postcss": "^8.5.18",
         "sass": "catalog:app",
         "sass-loader": "catalog:app",
         "tailwindcss": "^3",
