@@ -80,7 +80,7 @@
     },
     "devDependencies": {
         "@primeuix/themes": "catalog:",
-        "@nuxt/devtools": "^2.1.0",
+        "@nuxt/devtools": "^3.3.1",
         "@nuxt/eslint-config": "^1.1.0",
         "@nuxt/module-builder": "^0.8.4",
         "@nuxt/schema": "^3",
